@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on computer vision<br>👯 I’m looking to collaborate on AI related projects<br>🌱 I’m currently learning web development in Angular and Node.js
+🔭 I’m currently working on machine learning and deep learning<br>👯 I’m looking to collaborate on computer vision projects<br>🌱 I’m currently learning web development in Angular and Node.js
 
 
 ## 🌐 Socials:
